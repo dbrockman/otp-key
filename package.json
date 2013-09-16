@@ -1,0 +1,23 @@
+{
+  "name": "otp-key",
+  "version": "0.0.1",
+  "description": "Generate random base32 key for two-factor auth",
+  "author": "David Brockman Smoliansky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dbrockman/otp-key.git"
+  },
+  "keywords": [
+    "otp",
+    "hotp",
+    "totp"
+  ],
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "thirty-two": "0.0.1"
+  }
+}
