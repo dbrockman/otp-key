@@ -11,3 +11,6 @@ genKey(function (err, key) {
   // key = 'JBSWY3DPEHPK3PXP'
 });
 ```
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/otp-key.svg)](https://greenkeeper.io/)
