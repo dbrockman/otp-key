@@ -18,6 +18,6 @@
   ],
   "license": "BSD-2-Clause",
   "dependencies": {
-    "thirty-two": "0.0.1"
+    "thirty-two": "^0.0.1"
   }
 }
